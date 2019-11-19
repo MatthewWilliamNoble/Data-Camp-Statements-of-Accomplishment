@@ -26,7 +26,7 @@ This repository was created to house the statements of accomplishment I have ear
 	- Conda Essentials
 
 -  **Data Analyst with Python**
-	- Introduction to Data Science in Python (in progress following updates to courses)
+	- Introduction to Data Science in Python
 	- Intermediate Python for Data Science
 	- Python Data Science Toolbox (Part 1)
   	- Intro to SQL for Data Science
@@ -95,6 +95,7 @@ This repository was created to house the statements of accomplishment I have ear
 - Importing Data in Python (Part 1)
 - Importing Data in Python (Part 2)
 - Intermediate Python for Data Science
+- Introduction to Data Science
 - Introduction to Databases in Python
 - Introduction to Python
 - Introduction to Relational Databases in SQL
