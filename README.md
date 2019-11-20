@@ -30,7 +30,7 @@ This repository was created to house the statements of accomplishment I have ear
 	- Intermediate Python for Data Science
 	- Python Data Science Toolbox (Part 1)
   	- Intro to SQL for Data Science
-  	- Joining Data in SQL (in progress following updates to courses)
+  	- Joining Data in SQL
   	- Introduction to Relational Databases in SQL
   	- Importing Data in Python (Part 1)
   	- Importing Data in Python (Part 2)
@@ -100,6 +100,7 @@ This repository was created to house the statements of accomplishment I have ear
 - Introduction to Python
 - Introduction to Relational Databases in SQL
 - Introduction to Shell for Data Science
+- Joining Data in SQL
 - Linear Classifiers in Python
 - Machine Learning with the Experts | School Budgets
 - Manipulating DataFrames with pandas
