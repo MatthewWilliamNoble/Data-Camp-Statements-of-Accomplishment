@@ -75,30 +75,30 @@ My Data Camp profile can be found [here](https://www.datacamp.com/profile/Matthe
 
 ### Skill Tracks
 
-- **Python Programming** | [Course]https://www.datacamp.com/tracks/python-programming?version=1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/84fc9ffe34d39f095f0096f97cacae21ffbd7d3b)
+- **Python Programming** | [Course](https://www.datacamp.com/tracks/python-programming?version=1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/84fc9ffe34d39f095f0096f97cacae21ffbd7d3b)
 	- Introduction to Python | [Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4c242c73d5e22b24130f989b0d38541bdb8a271e)
 	- Intermediate Python for Data Science | [Course](https://www.datacamp.com/courses/intermediate-python-for-data-science) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/0713cbee35e43fb9a135f20ae9f115608e1de9a2)
 	- Python Data Science Toolbox (Part 1) | [Course](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/6b9760e2b783d61f7de19081263f2f9cee7c059b)
 	- Python Data Science Toolbox (Part 2) | [Course](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f8576fa73c57c4903c68b6e6cb7261f5f35fa01c)
   
 - **Importing & Cleaning Data with Python** | [Course](https://www.datacamp.com/tracks/importing-cleaning-data-with-python?version=1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/dda72139ce1cabf0737b1520efcf857ce82016c1)
-	- Importing Data in Python (Part 1) | [Course](xxxxx) | [Certificate](xxxxx)
-	- Importing Data in Python (Part 2) | [Course](xxxxx) | [Certificate](xxxxx)
-	- Introduction to Databases in Python | [Course](xxxxx) | [Certificate](xxxxx)
-	- Cleaning Data in Python | [Course](xxxxx) | [Certificate](xxxxx)
+	- Importing Data in Python (Part 1) | [Course](https://www.datacamp.com/courses/importing-data-in-python-part-1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/49647ce54a41fbf003806d18b4f25932c8500bfa)
+	- Importing Data in Python (Part 2) | [Course](https://www.datacamp.com/courses/importing-data-in-python-part-2) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3d18052728fada118f46688a2298e03bf2f4be0b)
+	- Introduction to Databases in Python | [Course](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3851f444b962a16b6a7c3936509bdc1126253187)
+	- Cleaning Data in Python | [Course](https://www.datacamp.com/courses/cleaning-data-in-python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/0e0a12775a37ceb874c496637ab9d4bc75a31051)
   
 - **Data Manipulation with Python** | [Course](https://www.datacamp.com/tracks/data-manipulation-with-python?version=1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/2b008fdbac0330c49ff03debb477dfc89cb81024)
-	- pandas Foundations | [Course](xxxxx) | [Certificate](xxxxx)
-	- Manipulating DataFrames with pandas | [Course](xxxxx) | [Certificate](xxxxx)
-	- Merging DataFrames with pandas | [Course](xxxxx) | [Certificate](xxxxx)
-	- Analyzing Police Activity with pandas | [Course](xxxxx) | [Certificate](xxxxx)
+	- pandas Foundations | [Course](https://www.datacamp.com/courses/pandas-foundations) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/745a95bb8fd01c55159ddb4659ef1aee112c34ce)
+	- Manipulating DataFrames with pandas | [Course](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/94b9695aed0f6581754b42f14d78c5d7558e2823)
+	- Merging DataFrames with pandas | [Course](https://www.datacamp.com/courses/merging-dataframes-with-pandas) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/60bf3e5b0d8116b22c4a99a056455a8216a4c4fa)
+	- Analyzing Police Activity with pandas | [Course](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f6939d775818dfa9210a3841a83d4fb6c10c4676)
   
 - **Machine Learning Fundamentals with Python** | [Course](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python?version=1) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/174dc71add6c4ab4f92c88f2442f7edbfd02b5b7)
-	- Supervised Learning with scikit-learn | [Course](xxxxx) | [Certificate](xxxxx)
-	- Unsupervised Learning in Python | [Course](xxxxx) | [Certificate](xxxxx)
-	- Linear Classifiers in Python | [Course](xxxxx) | [Certificate](xxxxx)
-	- Machine Learning with the Experts: School Budgets | [Course](xxxxx) | [Certificate](xxxxx)
-	- Deep Learning in Python | [Course](xxxxx) | [Certificate](xxxxx)
+	- Supervised Learning with scikit-learn | [Course](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2d4912c971b27bd75a5fe816b53d8f9d7c109d99)
+	- Unsupervised Learning in Python | [Course](https://www.datacamp.com/courses/unsupervised-learning-in-python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f4aa8c15bfee754a3a03ceaf9d54c570cdd5a6ac)
+	- Linear Classifiers in Python | [Course](https://www.datacamp.com/courses/linear-classifiers-in-python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/6fb7975ac6089fa4dd9f74f8761a885a9839e752)
+	- Machine Learning with the Experts: School Budgets | [Course](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/c4a5505fa9f08be13fefec73bbc8634a0344fdb9)
+	- Introduction to Deep Learning in Python | [Course](https://www.datacamp.com/courses/deep-learning-in-python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/d8e8729ed4a013b20d3165a6ea33010619d08032)
   
 - (in progress following updates to courses) **Statistics Fundamentals with Python**
 	- Lorem Ipsum ...
