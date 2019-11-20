@@ -1,4 +1,4 @@
-# Data-Camp-Statements-of-Accomplishment
+# Data Camp | Statements of Accomplishment
 
 ## Overview
 
