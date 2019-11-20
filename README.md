@@ -10,7 +10,7 @@ This repository was created to house the statements of accomplishment I have ear
 
 ### Career Tracks
 
-- [**Python Programmer**](https://www.datacamp.com/tracks/python-programmer?version=2)
+- [**Python Programmer**](https://www.datacamp.com/tracks/python-programmer?version=2) - [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/961404b7132ff372f1eb8511949689da762dff66)
 	- Introduction to Python
 	- Intermediate Python for Data science
 	- Python Data Science Toolbox (Part 1)
