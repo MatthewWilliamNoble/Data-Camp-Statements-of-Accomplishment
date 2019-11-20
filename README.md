@@ -10,7 +10,7 @@ This repository was created to house the statements of accomplishment I have ear
 
 ### Career Tracks
 
-- **Python Programmer**
+- [**Python Programmer**](https://www.datacamp.com/tracks/python-programmer?version=2)
 	- Introduction to Python
 	- Intermediate Python for Data science
 	- Python Data Science Toolbox (Part 1)
@@ -25,7 +25,7 @@ This repository was created to house the statements of accomplishment I have ear
 	- Introduction to Shell for Data Science
 	- Conda Essentials
 
--  **Data Analyst with Python**
+-  [**Data Analyst with Python**](https://www.datacamp.com/tracks/data-analyst-with-python?version=2)
 	- Introduction to Data Science in Python
 	- Intermediate Python for Data Science
 	- Python Data Science Toolbox (Part 1)
@@ -43,29 +43,29 @@ This repository was created to house the statements of accomplishment I have ear
   	- Statistical Thinking in Python (Part 1)
   	- Statistical Thinking in Python (Part 2)
 
-- (in progress following updates to courses) **Data Scientist with Python**
+- [**Data Scientist with Python**](https://www.datacamp.com/tracks/data-scientist-with-python?version=2)
 
 ### Skill Tracks
 
-- **Python Programming**
+- [**Python Programming**](https://www.datacamp.com/tracks/python-programming?version=1)
 	- Introduction to Python
 	- Intermediate Python for Data Science
 	- Python Data Science Toolbox (Part 1)
 	- Python Data Science Toolbox (Part 2)
   
-- **Importing & Cleaning Data with Python**
+- [**Importing & Cleaning Data with Python**](https://www.datacamp.com/tracks/importing-cleaning-data-with-python?version=1)
 	- Importing Data in Python (Part 1)
 	- Importing Data in Python (Part 2)
 	- Introduction to Databases in Python
 	- Cleaning Data in Python
   
-- **Data Manipulation with Python**
+- [**Data Manipulation with Python**](https://www.datacamp.com/tracks/data-manipulation-with-python?version=1)
 	- pandas Foundations
 	- Manipulating DataFrames with pandas
 	- Merging DataFrames with pandas
 	- Analyzing Police Activity with pandas
   
-- **Machine Learning with Python**
+- [**Machine Learning Fundamentals with Python**](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python?version=1)
 	- Supervised Learning with scikit-learn
 	- Unsupervised Learning in Python
 	- Linear Classifiers in Python
