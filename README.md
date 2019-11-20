@@ -95,7 +95,7 @@ This repository was created to house the statements of accomplishment I have ear
 - Importing Data in Python (Part 1)
 - Importing Data in Python (Part 2)
 - Intermediate Python for Data Science
-- Introduction to Data Science
+- Introduction to Data Science in Python
 - Introduction to Databases in Python
 - Introduction to Python
 - Introduction to Relational Databases in SQL
